@@ -1,0 +1,10 @@
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\bin\Debug\fullTimeHalfTimeTrackbar.exe.config
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\bin\Debug\fullTimeHalfTimeTrackbar.exe
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\bin\Debug\fullTimeHalfTimeTrackbar.pdb
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\obj\Debug\fullTimeHalfTimeTrackbar.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\obj\Debug\fullTimeHalfTimeTrackbar.form.resources
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\obj\Debug\fullTimeHalfTimeTrackbar.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\obj\Debug\fullTimeHalfTimeTrackbar.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\obj\Debug\fullTimeHalfTimeTrackbar.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\obj\Debug\fullTimeHalfTimeTrackbar.exe
+C:\Users\ua4aeu\Desktop\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar-master\fullTimeHalfTimeTrackbar\obj\Debug\fullTimeHalfTimeTrackbar.pdb
